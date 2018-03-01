@@ -13,42 +13,43 @@ ul {
 
 body{
     background-color: black;
-    background-image: url(../images/bg.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+    overflow: hidden;
 }
 
 .bgContainer{
     position: fixed;
-    background-image: url(../images/bg.jpg);
+    background-image: url(../images/bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left top;
     width: 100%;
     height: 100%;
     z-index: -1;
-    -webkit-filter: blur(5px);
-    -moz-filter: blur(5px);
-    -o-filter: blur(5px);
-    -ms-filter: blur(5px);
-    filter: blur(5px);
+    -webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+    -o-filter: blur(2px);
+    -ms-filter: blur(2px);
+    filter: blur(2px);
 }
 
 .container{
     position: relative;
-    width: 70%;
+    width: 100%;
     margin: auto;
-    padding-top: 9%;
+    padding-top: 16%;
+    min-height: 100%;
+    max-height: 100%;
+    display: inline-block;
 }
 
 .subContainer{
     background-color: blue;
-    width: 70%;
-    margin: auto;
+    width: 60%;
     display: flex;
     justify-content: center;
     border-radius: 55px;
     background-color: rgba(0, 20, 33, 0.6);
+    margin: auto;
 }
 
 .content{
@@ -56,6 +57,7 @@ body{
     font-size: 24px;
     padding: 25px;
     width: 50%;
+    display: 
 }
 
 .playlist {
@@ -66,9 +68,8 @@ body{
 }
 
 .playlist button{
-    color: white;
-    font-size: 1.6em;
-    color: white;
+    color: #269bff;
+    font-size: 2.3vmin;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -80,10 +81,10 @@ body{
 
 .portrait{
     transition: all 0.7s ease-in-out;
-    background-image: url(../images/LloydPrice.jpg);
+    background-image: url(../images/LloydPrice.webp);
     position: relative;
-    width: 500px;
-    height: 500px;
+    width: 20em;
+    height: 20em;
     border-radius: 50%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -94,7 +95,7 @@ body{
 .fa-play{
     opacity: 0;
     cursor: pointer;
-    color: white;
+    color: #269bff;
     font-size: 1em;
 }
 
@@ -104,7 +105,7 @@ body{
 
 button{
     width: 100%;
-    background-color: rgba(0, 20, 33, 0.0);
+    background-color: rgba(0, 20, 33, 0.5);
     text-align: left;
     outline: 0;
     border: none;
@@ -119,4 +120,54 @@ button:hover{
 
 button:active{
     transform: scale(1.1);
+}
+
+.title{
+    position: absolute;
+    color: white;
+    transform: translate(0,-100%);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 4em;
+}
+
+.titleImg{
+    position: absolute;
+    width: 50%;
+    left: 50%;
+    transform: translate(-50%,-100%);
+}
+
+.img1{
+    position: absolute;
+    width: 25%;
+    float: left;
+    z-index: -1;
+    left: -3%;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+        
+}
+
+.img2{
+    position: absolute;
+    float: right;
+    width: 25%;
+    z-index: -1;
+    left: 75%;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+}
+
+.name{
+    color: #269bff;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center
 }
