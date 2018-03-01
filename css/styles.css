@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bgContainer{
+    position: fixed;
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left top;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+}
+
+.container{
+    position: relative;
+    width: 70%;
+    margin: auto;
+    padding-top: 9%;
+}
+
+.subContainer{
+    background-color: blue;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 55px;
+    background-color: rgba(0, 20, 33, 0.6);
+}
+
+.content{
+    position: relative;
+    font-size: 24px;
+    padding: 25px;
+    width: 50%;
+}
+
+.playlist {
+    position: relative;
+    width: 50%;
+    padding: 25px;
+    z-index: 9999;
+}
+
+.playlist button{
+    color: white;
+    font-size: 1.6em;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.audioPlayer{
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+.portrait{
+    transition: all 0.7s ease-in-out;
+    background-image: url(../images/LloydPrice.jpg);
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.fa-play{
+    opacity: 0;
+    cursor: pointer;
+    color: white;
+    font-size: 1em;
+}
+
+.opacityOne{
+    opacity: 1;
+}
+
+button{
+    width: 100%;
+    background-color: rgba(0, 20, 33, 0.0);
+    text-align: left;
+    outline: 0;
+    border: none;
+    margin: 1%;
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover{
+    background-color: rgba(0, 20, 33, 1);
+    cursor: pointer;
+}
+
+button:active{
+    transform: scale(1.1);
+}
