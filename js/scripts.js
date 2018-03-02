@@ -1,21 +1,3 @@
-//Checks for .webp image support, I remember always seeing Simzer needing to update firefox, firefox being one of the browsers that don't support .webp.
-function hasWebP() {
-  var rv = $.Deferred();
-  var img = new Image();
-  img.onload = function() { rv.resolve(); };
-  img.onerror = function() { rv.reject(); };
-  img.src = 'http://www.gstatic.com/webp/gallery/1.webp';
-  return rv.promise();
-}
-
-//Changes images depending on above condition.
-hasWebP().then(function() {
-  // ... code to take advantage of WebP ...
-}, function() {
-  // ... code to deal with the lack of WebP ...
-});
-
-//Changes song and image depending on what was clicked
 $(document).ready(function(){
     $(".s1").click(function(){
         $("#v1").addClass("opacityOne");
@@ -28,7 +10,7 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/LloydPrice.webp)")
+        $(".portrait").css("background-image","url(./images/LloydPrice.jpg)")
         $("#music").attr('src','mp3/StaggerLee.m4a')
     });
     
@@ -43,7 +25,7 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/BobbyDarin.webp)")
+        $(".portrait").css("background-image","url(./images/BobbyDarin.jpg)")
         $("#music").attr('src','mp3/DreamLover.ogg')
     });
     
@@ -58,7 +40,7 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/BenEKing.webp)")
+        $(".portrait").css("background-image","url(./images/BenEKing.jpg)")
         $("#music").attr('src','mp3/StandByMe.ogg')
     });
 
@@ -73,7 +55,7 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/Elvis.webp)")
+        $(".portrait").css("background-image","url(./images/Elvis.jpg)")
         $("#music").attr('src','mp3/BlueSuedeShoes.m4a')
     });   
     
@@ -88,7 +70,7 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/Franky.webp)")
+        $(".portrait").css("background-image","url(./images/Franky.jpg)")
         $("#music").attr('src','mp3/EyesOffYou.m4a')
     }); 
     
@@ -103,7 +85,7 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/Danleers.webp)")
+        $(".portrait").css("background-image","url(./images/Danleers.jpg)")
         $("#music").attr('src','mp3/SummerNight.m4a')
     }); 
     
@@ -118,7 +100,7 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/Penguins.webp)")
+        $(".portrait").css("background-image","url(./images/Penguins.jpg)")
         $("#music").attr('src','mp3/EarthAngel.m4a')
     }); 
      
@@ -133,7 +115,7 @@ $(document).ready(function(){
         $("#v8").addClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/CurtisLee.webp)")
+        $(".portrait").css("background-image","url(./images/CurtisLee.jpg)")
         $("#music").attr('src','mp3/AngelEyes.m4a')
     });
      
@@ -148,7 +130,7 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").addClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/Dion.webp)")
+        $(".portrait").css("background-image","url(./images/Dion.jpg)")
         $("#music").attr('src','mp3/Teenager.ogg')
     });
     
@@ -163,7 +145,9 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").addClass("opacityOne");
-        $(".portrait").css("background-image","url(../images/Paul.webp)")
+        $(".portrait").css("background-image","url(./images/Paul.jpg)")
         $("#music").attr('src','mp3/Shoulder.ogg')
     });
+    
+    
 });
