@@ -330,7 +330,7 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
-        $("#v11").removeClass("opacityOne");
+        $("#v11").addClass("opacityOne");
         $("#v12").removeClass("opacityOne");
         $("#v13").removeClass("opacityOne");
         $("#v14").removeClass("opacityOne");

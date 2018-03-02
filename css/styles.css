@@ -174,3 +174,34 @@ button:active{
     font-family: 'Open Sans', sans-serif;
     text-align: center
 }
+
+@media only screen and (max-width: 1000px) {
+    .playlist {
+    height: 750px;;
+    width: 100%;
+    }
+    .playlist button{
+    font-size: 5vw;
+    }
+    .content{
+        visibility: hidden;
+        height: 0;
+        width: 0;
+    }
+    .subContainer{
+        width: 90%;
+        padding: 5%;
+    }
+    .titleImg{
+        width: 70%;
+    }
+    .container{
+        padding-top: 18%;
+    }
+    .img1 , .img2{
+        visibility: hidden;
+    }
+    .audioPlayer{
+        order: -1;
+    }
+}
