@@ -10,6 +10,23 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/LloydPrice.jpg)")
         $("#music").attr('src','mp3/StaggerLee.m4a')
     });
@@ -25,6 +42,23 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/BobbyDarin.jpg)")
         $("#music").attr('src','mp3/DreamLover.ogg')
     });
@@ -40,6 +74,23 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/BenEKing.jpg)")
         $("#music").attr('src','mp3/StandByMe.ogg')
     });
@@ -55,6 +106,23 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/Elvis.jpg)")
         $("#music").attr('src','mp3/BlueSuedeShoes.m4a')
     });   
@@ -70,6 +138,23 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/Franky.jpg)")
         $("#music").attr('src','mp3/EyesOffYou.m4a')
     }); 
@@ -85,6 +170,23 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/Danleers.jpg)")
         $("#music").attr('src','mp3/SummerNight.m4a')
     }); 
@@ -100,6 +202,23 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/Penguins.jpg)")
         $("#music").attr('src','mp3/EarthAngel.m4a')
     }); 
@@ -115,6 +234,23 @@ $(document).ready(function(){
         $("#v8").addClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/CurtisLee.jpg)")
         $("#music").attr('src','mp3/AngelEyes.m4a')
     });
@@ -130,6 +266,23 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").addClass("opacityOne");
         $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/Dion.jpg)")
         $("#music").attr('src','mp3/Teenager.ogg')
     });
@@ -145,8 +298,569 @@ $(document).ready(function(){
         $("#v8").removeClass("opacityOne");
         $("#v9").removeClass("opacityOne");
         $("#v10").addClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/Paul.jpg)")
         $("#music").attr('src','mp3/Shoulder.ogg')
+    });
+    
+    $(".s11").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Fats.jpg)")
+        $("#music").attr('src','mp3/Shame.m4a')
+    });
+    
+    $(".s12").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").addClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Everly.jpg)")
+        $("#music").attr('src','mp3/Dream.m4a')
+    });
+    
+    $(".s13").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").addClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/BobbyDarin.jpg)")
+        $("#music").attr('src','mp3/Sea.ogg')
+    });
+    
+    $(".s14").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").addClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Monotones.jpg)")
+        $("#music").attr('src','mp3/Book.m4a')
+    });
+    
+    $(".s15").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").addClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Buddy.jpg)")
+        $("#music").attr('src','mp3/OhBoy.m4a')
+    });
+    
+    $(".s16").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").addClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Chuck.jpg)")
+        $("#music").attr('src','mp3/NoPlace.ogg')
+    });
+    
+    $(".s17").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").addClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Dion1.jpg)")
+        $("#music").attr('src','mp3/SweetHearts.m4a')
+    });
+    
+    $(".s18").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").addClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Doris.jpg)")
+        $("#music").attr('src','mp3/JustOneLook.m4a')
+    });
+    
+    $(".s19").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").addClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Elvis.jpg)")
+        $("#music").attr('src','mp3/Shook.m4a')
+    });
+    
+    $(".s20").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").addClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Elvis1.jpg)")
+        $("#music").attr('src','mp3/FallingInLove.m4a')
+    });
+    
+    $(".s21").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").addClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Elvis.jpg)")
+        $("#music").attr('src','mp3/Dream.m4a')
+    });
+    
+    $(".s22").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").addClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Richard.jpg)")
+        $("#music").attr('src','mp3/Lucille.m4a')
+    });
+    
+    $(".s23").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").addClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Clovers.jpg)")
+        $("#music").attr('src','mp3/LovePotion.m4a')
+    });
+    
+    $(".s24").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").addClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Chordettes.jpg)")
+        $("#music").attr('src','mp3/Sandman.m4a')
+    });
+    
+    $(".s25").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").addClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Crests.jpg)")
+        $("#music").attr('src','mp3/StepByStep.ogg')
+    });
+    
+    $(".s26").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").addClass("opacityOne");
+        $("#v27").removeClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Drifters.jpg)")
+        $("#music").attr('src','mp3/Boardwalk.m4a')
+    });
+    
+    $(".s27").click(function(){
+        $("#v1").removeClass("opacityOne");
+        $("#v2").removeClass("opacityOne");
+        $("#v3").removeClass("opacityOne");
+        $("#v4").removeClass("opacityOne");
+        $("#v5").removeClass("opacityOne");
+        $("#v6").removeClass("opacityOne");
+        $("#v7").removeClass("opacityOne");
+        $("#v8").removeClass("opacityOne");
+        $("#v9").removeClass("opacityOne");
+        $("#v10").removeClass("opacityOne");
+        $("#v11").removeClass("opacityOne");
+        $("#v12").removeClass("opacityOne");
+        $("#v13").removeClass("opacityOne");
+        $("#v14").removeClass("opacityOne");
+        $("#v15").removeClass("opacityOne");
+        $("#v16").removeClass("opacityOne");
+        $("#v17").removeClass("opacityOne");
+        $("#v18").removeClass("opacityOne");
+        $("#v19").removeClass("opacityOne");
+        $("#v20").removeClass("opacityOne");
+        $("#v21").removeClass("opacityOne");
+        $("#v22").removeClass("opacityOne");
+        $("#v23").removeClass("opacityOne");
+        $("#v24").removeClass("opacityOne");
+        $("#v25").removeClass("opacityOne");
+        $("#v26").removeClass("opacityOne");
+        $("#v27").addClass("opacityOne");
+        $(".portrait").css("background-image","url(./images/Platters.jpg)")
+        $("#music").attr('src','mp3/OnlyYou.ogg')
     });
     
     
