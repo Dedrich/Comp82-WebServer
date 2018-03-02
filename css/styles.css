@@ -175,6 +175,14 @@ button:active{
     text-align: center
 }
 
+/* (1366x768) WXGA Display */
+@media  screen and (max-width: 1366px) {
+    .playlist{
+        height: 400px;
+    }
+}
+
+/*Phones*/
 @media only screen and (max-width: 1000px) {
     .playlist {
     height: 750px;;

@@ -668,7 +668,7 @@ $(document).ready(function(){
         $("#v26").removeClass("opacityOne");
         $("#v27").removeClass("opacityOne");
         $(".portrait").css("background-image","url(./images/Elvis.jpg)")
-        $("#music").attr('src','mp3/Dream.m4a')
+        $("#music").attr('src','mp3/FollowDream.ogg')
     });
     
     $(".s22").click(function(){
