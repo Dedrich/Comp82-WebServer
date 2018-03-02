@@ -175,6 +175,29 @@ button:active{
     text-align: center
 }
 
+.fa-random{
+    color: #269bff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2vw;
+    background-color: rgba(0, 20, 33, 0.6);
+    border-radius: 50%;
+    padding: 20%;
+    transition: all 0.1s ease-in-out;
+}
+.random{
+    width: 6%;
+    text-align: center;
+}
+
+.random :hover{
+    cursor: pointer;
+    background-color: rgba(0, 20, 33, 1);
+}
+
+.random :active{
+    color: white;
+}
+
 /* (1366x768) WXGA Display */
 @media  screen and (max-width: 1366px) {
     .playlist{
@@ -185,7 +208,7 @@ button:active{
 /*Phones*/
 @media only screen and (max-width: 1000px) {
     .playlist {
-    height: 750px;;
+    height: 65vh;
     width: 100%;
     }
     .playlist button{
@@ -211,5 +234,12 @@ button:active{
     }
     .audioPlayer{
         order: -1;
+    }
+    .fa-random{
+        font-size: 7vw;
+        padding: 3%;
+    }
+    .random{
+        width: 100%;
     }
 }
