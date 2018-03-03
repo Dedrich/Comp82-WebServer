@@ -33,7 +33,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/StaggerLee.m4a')
         x=1;
     });
-    
+
     $(".s2").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").addClass("opacityOne");
@@ -66,7 +66,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/DreamLover.ogg')
         x=2;
     });
-    
+
     $(".s3").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -131,8 +131,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Elvis.jpg)")
         $("#music").attr('src','mp3/BlueSuedeShoes.m4a')
         x=4;
-    });   
-    
+    });
+
     $(".s5").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -164,8 +164,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Franky.jpg)")
         $("#music").attr('src','mp3/EyesOffYou.m4a')
         x=5;
-    }); 
-    
+    });
+
     $(".s6").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -197,8 +197,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Danleers.jpg)")
         $("#music").attr('src','mp3/SummerNight.m4a')
         x=6;
-    }); 
-    
+    });
+
     $(".s7").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -230,8 +230,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Penguins.jpg)")
         $("#music").attr('src','mp3/EarthAngel.m4a')
         x=7;
-    }); 
-     
+    });
+
     $(".s8").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -264,7 +264,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/AngelEyes.m4a')
         x=8;
     });
-     
+
     $(".s9").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -297,7 +297,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Teenager.ogg')
         x=9;
     });
-    
+
     $(".s10").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -330,7 +330,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Shoulder.ogg')
         x=10;
     });
-    
+
     $(".s11").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -363,7 +363,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Shame.m4a')
         x=11;
     });
-    
+
     $(".s12").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -396,7 +396,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Dream.m4a')
         x=12;
     });
-    
+
     $(".s13").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -429,7 +429,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Sea.ogg')
         x=13;
     });
-    
+
     $(".s14").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -462,7 +462,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Book.m4a')
         x=14;
     });
-    
+
     $(".s15").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -495,7 +495,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/OhBoy.m4a')
         x=15;
     });
-    
+
     $(".s16").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -528,7 +528,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/NoPlace.ogg')
         x=16;
     });
-    
+
     $(".s17").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -561,7 +561,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/SweetHearts.m4a')
         x=17;
     });
-    
+
     $(".s18").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -594,7 +594,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/JustOneLook.m4a')
         x=18;
     });
-    
+
     $(".s19").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -627,7 +627,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Shook.m4a')
         x=19;
     });
-    
+
     $(".s20").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -660,7 +660,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/FallingInLove.m4a')
         x=20;
     });
-    
+
     $(".s21").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -693,7 +693,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/FollowDream.ogg')
         x=21;
     });
-    
+
     $(".s22").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -726,7 +726,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Lucille.m4a')
         x=22;
     });
-    
+
     $(".s23").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -759,7 +759,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/LovePotion.m4a')
         x=23;
     });
-    
+
     $(".s24").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -792,7 +792,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Sandman.m4a')
         x=24;
     });
-    
+
     $(".s25").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -825,7 +825,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/StepByStep.ogg')
         x=25;
     });
-    
+
     $(".s26").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -858,7 +858,7 @@ $(document).ready(function(){
         $("#music").attr('src','mp3/Boardwalk.m4a')
         x=26;
     });
-    
+
     $(".s27").click(function(){
         $("#v1").removeClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -889,12 +889,12 @@ $(document).ready(function(){
         $("#v27").addClass("opacityOne");
         $(".portrait").css("background-image","url(./images/Platters.jpg)")
         $("#music").attr('src','mp3/OnlyYou.ogg')
-        x=0;
+        x=27;
     });
-    
-    
+
+
     var isRandom=0;
-    
+
     $('audio').on('ended',function(){
         if(isRandom==0){
             x=x+1
@@ -913,7 +913,7 @@ $(document).ready(function(){
         }
     });
 
-    $(".random").click(function(){
+    $(".randomToggle").click(function(){
         if(isRandom==0){
             isRandom=1;
             console.log("RANDOM")
@@ -923,7 +923,58 @@ $(document).ready(function(){
             console.log("NOT-RANDOM")
             $(".fa-random").css("color","#269bff")
         }
-        
-        
     });
+    
+//Forwards Control    
+    $(".controlForward").click(function(){
+        if(isRandom==0){
+            if(x==27){
+                console.log("Forward-Wrap");
+                x=1;
+                var z=y+x;
+                $(z).trigger('click');
+                console.log(z)
+            }else{
+                console.log("Forward");
+                x++
+                var z=y+x;
+                $(z).trigger('click');
+                console.log(z)
+            }
+        }else{
+            console.log("Forward-Random");
+            var random;
+            random = Math.ceil(Math.random() * 27)
+            z=y+random;
+            $(z).trigger('click');
+            console.log(z)                
+            }
+      });
+    
+//Backwards Control    
+    $(".controlBackward").click(function(){
+        if(isRandom==0){
+            if(x<=1){
+                x=27;
+                var z=y+x;
+                $(z).trigger('click');
+                console.log("Backward-Wrap");
+                console.log(z)  
+            }else{
+                console.log("Backward");
+                x--
+                var z=y+x;
+                $(z).trigger('click');
+                console.log(z)
+            }
+
+        }else{
+            console.log("Backward-Random");
+            var random;
+            random = Math.ceil(Math.random() * 27)
+            z=y+random;
+            $(z).trigger('click');
+            console.log(z)                
+            }
+      });    
 });

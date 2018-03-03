@@ -9,7 +9,6 @@
         <!--Scripts-->
         <script src="js/jquery-3.2.1.min.js"></script>
         <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
-        <script src="js/scripts.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/simplebar@latest/dist/simplebar.js"></script>
 
         <!--Fonts-->
@@ -24,8 +23,16 @@
         <div class="container">
             <img class="titleImg" src="images/title.png">
             <div class="subContainer">
-                <div class="random">
-                    <i class="fas fa-random"></i>
+                <div class="controls">
+                    <div class="controlButton randomToggle">
+                        <i class="fas fa-random"></i>
+                    </div>
+                    <div class="controlButton controlBackward">
+                    <i class="fas fa-step-backward"></i>
+                    </div>
+                    <div class="controlButton controlForward">
+                        <i class="fas fa-step-forward"></i>
+                    </div>
                 </div>
                 <div data-simplebar class="playlist">
                     <ul>
@@ -233,5 +240,5 @@
                 <h1>By: Derek Bancroft</h1>
         </div>
     </body>
-    
+    <script src="js/scripts.js"></script>
 </html>
