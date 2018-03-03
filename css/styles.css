@@ -72,11 +72,32 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+button{
+    width: 98%;
+    background-color: rgba(0, 20, 33, 0.5);
+    text-align: left;
+    outline: 0;
+    border: none;
+    margin: 1%;
+    transition: all 0.3s ease-in-out;
+    border-radius: 25px;
+}
+
+button:hover{
+    background-color: rgba(0, 20, 33, 1);
+    cursor: pointer;
+}
+
+button:active{
+    transform: scale(1.1);
+}
+
+
 .audioPlayer{
     width: 100%;
     align-self:flex-end;
-    margin-bottom: 2%;
-    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-top: 1%;
     text-align: center;
 }
 
@@ -104,25 +125,6 @@ body{
 
 .opacityOne{
     opacity: 1;
-}
-
-button{
-    width: 100%;
-    background-color: rgba(0, 20, 33, 0.5);
-    text-align: left;
-    outline: 0;
-    border: none;
-    margin: 1%;
-    transition: all 0.3s ease-in-out;
-}
-
-button:hover{
-    background-color: rgba(0, 20, 33, 1);
-    cursor: pointer;
-}
-
-button:active{
-    transform: scale(1.1);
 }
 
 .title{
@@ -175,10 +177,14 @@ button:active{
     text-align: center
 }
 
+.name h1{
+    font-size: 1.5vw;
+}
+
 .fa-random{
     color: #269bff;
     font-family: 'Open Sans', sans-serif;
-    font-size: 2vw;
+    font-size: 2.5vw;
     background-color: rgba(0, 20, 33, 0.6);
     border-radius: 50%;
     padding: 20%;
@@ -188,7 +194,7 @@ button:active{
 .fa-step-forward{
     color: #269bff;
     font-family: 'Open Sans', sans-serif;
-    font-size: 2vw;
+    font-size: 2.5vw;
     background-color: rgba(0, 20, 33, 0.6);
     border-radius: 50%;
     padding: 20%;
@@ -198,7 +204,7 @@ button:active{
 .fa-step-backward{
     color: #269bff;
     font-family: 'Open Sans', sans-serif;
-    font-size: 2vw;
+    font-size: 2.5vw;
     background-color: rgba(0, 20, 33, 0.6);
     border-radius: 50%;
     padding: 20%;
@@ -206,8 +212,11 @@ button:active{
 }
 
 .controls{
-    width: 6%;
-    text-align: center;
+    width: 15%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 1%;
 }
 
 .controlButton :hover{
@@ -219,10 +228,39 @@ button:active{
     color: white;
 }
 
+.songTitleContainer{
+    width: 100%;
+    margin: auto;
+    height: 4vh;
+    margin-bottom: 1%;
+}
+
+.songTitle{
+    width: 100%;
+    margin: auto;
+    height: 100%;
+}
+
+.songTitle h1{
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+    color: #269bff;
+    font-size: 2vw;
+}
+
 /* (1366x768) WXGA Display */
 @media  screen and (max-width: 1366px) {
     .playlist{
         height: 400px;
+    }
+    .titleImg{
+        width: 20%;
+    }
+    .container{
+    padding-top: 5.5%;
+    }
+    .songTitleContainer{
+    height: 5vh;
     }
 }
 
@@ -231,6 +269,7 @@ button:active{
     .playlist {
     height: 65vh;
     width: 100%;
+    background-color: rgba(0, 20, 33, 0.5);
     }
     .playlist button{
     font-size: 5vw;
@@ -280,5 +319,14 @@ button:active{
         display: flex;
         justify-content: center;
         background-color: rgba(0, 20, 33, 0.3);
+    }
+    .songTitle h1{
+    font-size: 5vw;
+    }
+    .songTitleContainer{
+    height: 9vh;
+    }
+    button{
+        margin: 3% 0px;
     }
 }

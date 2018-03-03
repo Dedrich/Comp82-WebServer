@@ -1,6 +1,9 @@
 $(document).ready(function(){
     var x=0;
     var y=".s";
+    var b="button";
+    $('#songTitle').html('<h1>Welcome!</h1>');
+    
     $(".s1").click(function(){
         $("#v1").addClass("opacityOne");
         $("#v2").removeClass("opacityOne");
@@ -32,6 +35,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/LloydPrice.jpg)")
         $("#music").attr('src','mp3/StaggerLee.m4a')
         x=1;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s2").click(function(){
@@ -65,6 +70,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/BobbyDarin.jpg)")
         $("#music").attr('src','mp3/DreamLover.ogg')
         x=2;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s3").click(function(){
@@ -98,6 +105,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/BenEKing.jpg)")
         $("#music").attr('src','mp3/StandByMe.ogg')
         x=3;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s4").click(function(){
@@ -131,6 +140,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Elvis.jpg)")
         $("#music").attr('src','mp3/BlueSuedeShoes.m4a')
         x=4;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s5").click(function(){
@@ -164,6 +175,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Franky.jpg)")
         $("#music").attr('src','mp3/EyesOffYou.m4a')
         x=5;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s6").click(function(){
@@ -197,6 +210,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Danleers.jpg)")
         $("#music").attr('src','mp3/SummerNight.m4a')
         x=6;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s7").click(function(){
@@ -230,6 +245,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Penguins.jpg)")
         $("#music").attr('src','mp3/EarthAngel.m4a')
         x=7;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s8").click(function(){
@@ -263,6 +280,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/CurtisLee.jpg)")
         $("#music").attr('src','mp3/AngelEyes.m4a')
         x=8;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s9").click(function(){
@@ -296,6 +315,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Dion.jpg)")
         $("#music").attr('src','mp3/Teenager.ogg')
         x=9;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s10").click(function(){
@@ -329,6 +350,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Paul.jpg)")
         $("#music").attr('src','mp3/Shoulder.ogg')
         x=10;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s11").click(function(){
@@ -362,6 +385,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Fats.jpg)")
         $("#music").attr('src','mp3/Shame.m4a')
         x=11;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s12").click(function(){
@@ -395,6 +420,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Everly.jpg)")
         $("#music").attr('src','mp3/Dream.m4a')
         x=12;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s13").click(function(){
@@ -428,6 +455,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/BobbyDarin.jpg)")
         $("#music").attr('src','mp3/Sea.ogg')
         x=13;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s14").click(function(){
@@ -461,6 +490,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Monotones.jpg)")
         $("#music").attr('src','mp3/Book.m4a')
         x=14;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s15").click(function(){
@@ -494,6 +525,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Buddy.jpg)")
         $("#music").attr('src','mp3/OhBoy.m4a')
         x=15;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s16").click(function(){
@@ -527,6 +560,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Chuck.jpg)")
         $("#music").attr('src','mp3/NoPlace.ogg')
         x=16;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s17").click(function(){
@@ -560,6 +595,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Dion1.jpg)")
         $("#music").attr('src','mp3/SweetHearts.m4a')
         x=17;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s18").click(function(){
@@ -593,6 +630,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Doris.jpg)")
         $("#music").attr('src','mp3/JustOneLook.m4a')
         x=18;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s19").click(function(){
@@ -626,6 +665,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Elvis.jpg)")
         $("#music").attr('src','mp3/Shook.m4a')
         x=19;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s20").click(function(){
@@ -659,6 +700,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Elvis1.jpg)")
         $("#music").attr('src','mp3/FallingInLove.m4a')
         x=20;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s21").click(function(){
@@ -692,6 +735,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Elvis.jpg)")
         $("#music").attr('src','mp3/FollowDream.ogg')
         x=21;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s22").click(function(){
@@ -725,6 +770,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Richard.jpg)")
         $("#music").attr('src','mp3/Lucille.m4a')
         x=22;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s23").click(function(){
@@ -758,6 +805,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Clovers.jpg)")
         $("#music").attr('src','mp3/LovePotion.m4a')
         x=23;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s24").click(function(){
@@ -791,6 +840,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Chordettes.jpg)")
         $("#music").attr('src','mp3/Sandman.m4a')
         x=24;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s25").click(function(){
@@ -824,6 +875,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Crests.jpg)")
         $("#music").attr('src','mp3/StepByStep.ogg')
         x=25;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s26").click(function(){
@@ -857,6 +910,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Drifters.jpg)")
         $("#music").attr('src','mp3/Boardwalk.m4a')
         x=26;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
     $(".s27").click(function(){
@@ -890,6 +945,8 @@ $(document).ready(function(){
         $(".portrait").css("background-image","url(./images/Platters.jpg)")
         $("#music").attr('src','mp3/OnlyYou.ogg')
         x=27;
+        var test= $( b+y+x ).text();
+        $('#songTitle').html('<h1>'+ test +'</h1>');
     });
 
 
